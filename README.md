@@ -11,3 +11,5 @@ Assignment 1: Getting Set Up
 3.  Create a text file and call it "Intro". Write a few paragraphs introducing yourself. Commit and push this file.
 
 4.  Go to GitHub and see that your changes have appeared. You should have (at least) 2 commits to your repository - one adding or modifying README.md, another adding Introduction.
+
+Hi, my name is David! I am very excited since I just figured out how to do this after a few hours of setting up and stumbling around R and Git, haha. It took awhile but I figured it out. I really want to gain a working understanding of what programming is in the context of stats and maybe some skill in how to actually use programming software like R to actually do stats. 
